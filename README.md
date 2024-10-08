@@ -1,0 +1,2 @@
+# PBRVITS_TOTAL_MANAGEMENT
+ The PBRVITS Application is an interactive tool designed for educational institutions, specifically aimed at managing student data, including personal details and attendance. This application allows users to capture and store vital information such as names, ages, sections, and parent details, alongside audio recordings and images of the students. With features for voice recognition and QR code generation, the application enhances student management and attendance tracking, making it an efficient solution for schools and colleges.
