@@ -1,0 +1,9 @@
+Name: hh
+Age: 88
+Branch: AI
+Section: ii
+Father's Name: jhj
+Mother's Name: bbh
+Aadhar Card Number: **********
+Voice File: person_data\audio.wav
+Image File: person_data\image.jpg

@@ -1,0 +1,9 @@
+Name: sandhani
+Age: 21
+Branch: AI
+Section: ai
+Father's Name: ramthulla
+Mother's Name: asha
+Aadhar Card Number: *************
+Voice File: person_data\audio.wav
+Image File: person_data\image.jpg
